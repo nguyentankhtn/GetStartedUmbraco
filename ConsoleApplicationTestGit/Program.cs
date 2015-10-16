@@ -10,6 +10,7 @@ namespace ConsoleApplicationTestGit
     {
         static void Main(string[] args)
         {
+            Console.Write("Testing");
         }
     }
 }
