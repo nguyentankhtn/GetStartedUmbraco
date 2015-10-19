@@ -14,6 +14,7 @@ namespace ConsoleApplicationTestGit
         {
             Console.Write("Testing");
             Console.Write("Testing 2");
+            Console.Write("Testing 3");
             ApplicationAccountDataAccess db = new ApplicationAccountDataAccess();
             db.Add(new ApplicationAccountTable
             {
